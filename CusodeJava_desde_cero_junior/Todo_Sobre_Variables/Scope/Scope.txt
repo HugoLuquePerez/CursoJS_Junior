@@ -1,0 +1,1 @@
+Scope: el significado de scope es el alcance de la variable lo que va ocupar esa variable

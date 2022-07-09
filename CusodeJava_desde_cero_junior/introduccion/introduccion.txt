@@ -1,0 +1,23 @@
+Caracteristicas del curso:
+
+    JavaScript native(nativo)
+    Lenguaje de programacion
+    Orientado a objetos
+    Imperativo
+    Case sensitive (upper and lower case) Sensible a Mayusculas- 
+    basado en prototipos / instancias / classless
+    Tipado débil
+    Lenguaje dinámico
+
+    ECMASCR 
+
+Para que se usa JavaScript:
+
+    Dinamísmo de los sitios web
+    Servidor en Node.js
+    Tecnologias como Angular, React o Vue.js
+    Inteligencia artificisl
+    Placas electronicas
+    Mobile apps 
+    Desktop apps
+    Ect...
