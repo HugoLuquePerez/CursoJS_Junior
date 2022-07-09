@@ -1,0 +1,21 @@
+____Metodos____
+- sqrt()
+- cbrt()
+- max()
+- min()
+- random()
+- round()
+- fround()
+- floor()
+- trunc()
+
+____Propiedades____
+- PI 
+- SQRT1_2
+- SQRT2
+
+- E
+- LN2
+- LN10
+- LOG2E
+- Log10E

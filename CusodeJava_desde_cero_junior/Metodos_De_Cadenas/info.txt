@@ -1,0 +1,19 @@
+Metodos De Cadenas.
+    - concat() - Junta dos o mas cadenas y retorna una nueva.
+    
+    - startsWith() - Si una cadena comienza con los caracteres de otra cadena, devuelve true, sino devuelve false.
+    . endsWith() - Si una cadena termina con los caracteres de otra cadena, devuelve true, sino devuelve false.
+    - includes() - Si una cadena puede encontrarse dentro de otra cadena, devuelde true(), sino devuelve false.
+    - indexOF() - Devuelve el indice del primer caracter de la cadena, si no existe, deviuelve -1.
+    - lastIndexOf() - Devuelve el ultimo indice del primer caracter de la cadena, si no exite, devuelve -1.
+
+    - padStart() - [propuesta de Estandar] - Rellenar cadena al principio con los caracteres deseados.
+    - padEnd() - [propuesta de ECMA] - Rellenar cadenaal final con los caracteres deseados.
+    - repeat() - Devuelve la misma cadena pero repetida la cantidad que le indiquemos.
+
+    - split() - Divide la cadena como le pidamos.
+    - subString - Nos retorna un pedazo de la cadena que seleccionamos.
+    - toLowerCase() - Convierte una cadena a minuscula.
+    - toUpperCase() - Convierte una cadena a mayúscula.
+    - toString() - Método devuelve uan cadena que representa al objeto  especificado.
+    - trim() - Elimina los espacios en blanco al principio y al final de una cadena.

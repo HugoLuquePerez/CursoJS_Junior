@@ -1,0 +1,19 @@
+Metodos de Arrays
+
+_____Transformadores_____
+- pop() - elimina el último elmento de la array y lo devuelve.
+- shift() - elimina el primer elmento de la array y lo devuelve.
+- push() - agrega un elemento a la array al final de la lista.
+- reverse() -invierte el orden de los elmentos de una array.
+- unshift() - agrega uno o mas elmentos al inicio de la array, y devuelve la nueva longitud de ella.
+- sort() - ordena los elemntos de un array localmente y devuelve todo ordenado.
+- splice() - cambia el contenido de una array elminando elmentos existentes y agregando nuevos.
+
+_____Accesores_____
+- join() - une todos los elementos de una matriz (u objeto similar) en una cadena y la devuelve.
+- slice() - devuelve una parte de la array dentro de un nuevo array emepzando por el inicio hasta el fin.
+- Metodos ya vistos en cadenas: toString(), indexOf(), lastIndexOf(),includes().
+
+_____De repetición_____
+- filter() - crea un nuevo array con todos los elementos que cumplan la condición.
+- forEach() - ejecuta una función indicada una vez por cada elemento del array.

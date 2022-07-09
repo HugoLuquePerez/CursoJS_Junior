@@ -1,0 +1,1 @@
+/* - Metodos ya vistos en cadenas: toString(), indexOf(), lastIndexOf(),includes(). */
