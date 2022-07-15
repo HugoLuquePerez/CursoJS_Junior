@@ -1,0 +1,1 @@
+/* nodo es todo en el <html> el <body> y el <head>, incluso tmabien los <script> y los <p>, <form> */

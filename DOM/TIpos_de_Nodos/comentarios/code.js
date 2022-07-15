@@ -1,0 +1,1 @@
+/* son lo comentarios que son nodos de tipo comentario */

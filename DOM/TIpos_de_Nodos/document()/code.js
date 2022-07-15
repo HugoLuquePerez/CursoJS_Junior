@@ -1,0 +1,1 @@
+/* el nodo document es el nodo raiz de el cual salen todo los demas nodos */

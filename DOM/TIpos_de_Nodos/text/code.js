@@ -1,0 +1,1 @@
+/* son los nodos de tipo texto */

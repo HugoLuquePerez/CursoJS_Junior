@@ -1,0 +1,1 @@
+/* son los atributos a lo cual llamamos nodo de  tipo attribute */
